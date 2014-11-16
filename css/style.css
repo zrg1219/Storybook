@@ -1,0 +1,16 @@
+body{
+  background-color: white;
+}
+
+.first{
+  color: 191950;
+  font-weight: 10000;
+}
+
+.text{
+  display:none;
+}
+
+a{
+  font-size: 32px;
+}
